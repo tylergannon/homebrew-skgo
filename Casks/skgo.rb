@@ -1,6 +1,6 @@
 cask "skgo" do
-  version "0.43.4"
-  sha256 "80b1b8f90ef96623fe950e12929f7c42766b1aedcef6d52a59e6c54e2f0faae5"
+  version "0.44.0"
+  sha256 "0aa9e71ab506b4a3d45ff17921346a19ef35d6f920a01f2eba2b5b72c4383b22"
 
   url "https://github.com/tylergannon/skgo/releases/download/v#{version}/skgo_#{version}_darwin_arm64.tar.gz"
   name "SKGO"
